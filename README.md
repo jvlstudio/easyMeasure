@@ -1,3 +1,3 @@
 Easy-Measure
 ============
-Simple app that allows to measure (centimeters only) with an iPhone device.
+Objective C iPhone application that allows to measure (centimeters only) anything, with an iPhone device.
